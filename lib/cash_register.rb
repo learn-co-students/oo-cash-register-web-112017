@@ -49,4 +49,8 @@ class CashRegister
     @total
   end
 
+
+  def ignore_this
+    "oirghosrigh"
+  end
 end
